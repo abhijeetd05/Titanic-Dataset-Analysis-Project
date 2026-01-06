@@ -119,7 +119,3 @@ Hyperparameter tuning
 Deploy as a web app using Streamlit
 
 Add ROC-AUC and Precision–Recall analysis
-
-🧠 Interview-Ready Summary
-
-“This project demonstrates a complete data science workflow — from exploratory data analysis and feature engineering to machine learning modeling and evaluation — with a strong emphasis on interpretability and structured analysis.”
